@@ -10,3 +10,9 @@ Hi... after adding a collaborator
 Hello shree
 
 Test pull request
+
+Creating a new branch called as shreedevi_branch.
+Adding this new comments to that branch
+
+
+Created a new branch, now you will be able to see this comment only in the new branch
